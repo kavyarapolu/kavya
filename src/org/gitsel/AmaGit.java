@@ -8,7 +8,7 @@ public class AmaGit {
 		if(i<=2) {
 			System.out.println("numbers from 1 to 10:" +i);
 		}
-		
+		System.out.println("done");
 	}
 
 }
